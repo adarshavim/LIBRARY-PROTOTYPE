@@ -21,11 +21,11 @@ There are total three table used in this prototype which is as follows:<br>
  <br>
  ![](BookLib_Screenshot/dashboard.png)
  <br>
- ![](BookLib_Screenshot/list of authors.png)
+ ![](BookLib_Screenshot/authorlist.png)
  <br>
- ![](BookLib_Screenshot/list of publishers.png)
+ ![](BookLib_Screenshot/publisherlist.png)
  <br>
- ![](BookLib_Screenshot/lisf of books.png)
+ ![](BookLib_Screenshot/booklist.png)
  <br>
  <br>
  How to run on local system.<br>
