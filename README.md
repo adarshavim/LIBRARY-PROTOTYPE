@@ -2,7 +2,7 @@
 It is protoype  of application for managing details of authors, publishers and books at library.<br>
 
 This application uses MySQL database;<br>
-There are total three table used in this prototype which is as follows:<br>
+There are total three table used in this prototype which is as follows:<br><br><br>
 ![](BookLib_Screenshot/tables.png)
 <br>
 1)Two master(Data is rarely change) tables:<br>
@@ -11,11 +11,9 @@ There are total three table used in this prototype which is as follows:<br>
  <br>
  b)Publisher Table<br>
  ![](BookLib_Screenshot/publish_table.png)
- <br>
+ <br><br><br>
  2)And one Transaction table Book_det for addition and deletion of book.<br>
  ![](BookLib_Screenshot/Books_table.png)
- <br>
- <br>
  <br>
  Java GUI interface is used for managing all data in database;
  <br>
@@ -26,7 +24,6 @@ There are total three table used in this prototype which is as follows:<br>
  ![](BookLib_Screenshot/publisherlist.png)
  <br>
  ![](BookLib_Screenshot/booklist.png)
- <br>
  <br>
  How to run on local system.<br>
  Prerequisites are:<br>
